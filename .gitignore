@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Builds
+dist/
+.expo/
+web-build/
+
+# Entornos y logs
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
